@@ -1,4 +1,12 @@
+.container{
+    width:91%;  
+    height:48vh;
+    border-radius: 10px;
+    display: block;
+}
+
 .calculator {
+   background:#4740ff;
     width: 300px;
     margin: 50px auto;
     padding: 30px;
